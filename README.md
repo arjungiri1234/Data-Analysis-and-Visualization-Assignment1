@@ -6,3 +6,6 @@ This repo contains Git/Github essentials where we build a clean analysis noteboo
 1. Install pandas and matplotlib
 2. Open notebooks/analysis.ipynb
 3. Run all cells
+
+## Dataset
+Download `netflix_titles.csv` from Kaggle and place it at `data/netflix_titles.csv`.
